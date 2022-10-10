@@ -1,0 +1,55 @@
+Teams should consist of between 2-6 participants. 
+You should utilize git and a management board (e.g., Trello, Asana) of your choice.
+Team-based work is required. Solo work can only be done with manager approval.
+
+MOODS
+Day 1: Hard-coded console application
+At least 15 different moods/states of being (e.g., happy, in love, confused, etc.)
+At least 15 different sentences
+You can make a mix of questions, statements, imperatives (e.g., “Would you like fries with that?” or “Don’t touch that! It’s dirty!”)
+Print one of each, randomized, to console 
+Keep it work-appropriate, but have fun!
+
+Day 2: Making APIs
+Day 3: Persistence layer and user input
+Day 4: UI
+
+USER INYERFACE
+Goal: Create the most mindfully horrible user interface you can construct. To be done in teams of 2-3, associates can select teammates.
+Remember: The goal is to write good code that causes the user to have a bad experience. 
+
+See this link for frustration inspiration: https://userinyerface.com/
+
+Options: Please choose one of the following options. Each day’s requirements will be directly associated with your choice.
+Login capability: an app that allows a user to create an account, log in, and update information
+No login capability: an app that allows a user to view events and purchase tickets; to incorporate a calendar
+
+Day 1
+Login: Login page
+No login: Landing page for events (e.g., if for a venue, like a theater, it’s their events page; if for a travel booking site like a railroad, it’s the landing page for that) with at least 2 workable links to necessary pages (e.g., schedule, tickets, etc.)
+Day 2 
+Login: Registration page, with at least 5 fields required for user to register, and make each one have its own format or technique for input (remember, the user needs to hate you when this is over)
+No login: Linked pages dynamic views (the schedule page, tickets page, whatever you made links for on previous day)
+
+Day 3
+Login: Profile page (plan to include ways to update information, which will be a future task)
+No login: Incorporate a calendar/calendar-like view for events; your choice on whether to add to existing view or create new one
+Day 4
+Login: Ensure there are at least 5 fields for updates, each with their own technique or format for user to update information (just to make it extra hard)
+No login: Checkout page complete (do not worry about true purchasing functionality)
+
+
+
+IMPROV TIME
+Have you ever been to an improv show? One of the things they like to do is get the audience to give them characters, settings, and a scenario, and the performers will then perform a scene based off of those criteria. Let’s make an app for that!
+Day 1: Hard-coded console application
+At least 10 different character types (e.g., princess, construction worker, programmer on a deadline, etc.)
+At least 5 different settings (e.g., grocery store, Cardinals baseball game, Dunder Mifflin)
+At least 5 different activities (e.g., on a scavenger hunt, shopping, getting ready to propose)
+Print 2 characters, one setting, and one activity, each randomized, to console for each time program is run
+Keep it work-appropriate, but have fun! The more outlandish the characters, settings, and/or activities are, the more work you make your performers have to do (and that’s half the fun)
+
+Day 2: Make APIs using your previous work! You can use the tools/framework of your choice. 
+Day 3: Persistence layer and user input
+Day 4: UI
+
